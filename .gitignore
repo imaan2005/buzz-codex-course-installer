@@ -1,0 +1,5 @@
+*.log
+.DS_Store
+Thumbs.db
+CODEX_REVIEW_PROMPT.md
+upload-and-run.zip
